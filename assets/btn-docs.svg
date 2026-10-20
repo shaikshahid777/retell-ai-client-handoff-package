@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="52" viewBox="0 0 240 52" role="img" aria-label="Read the Docs">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+<clipPath id="c"><rect width="240" height="52" rx="26"/></clipPath></defs>
+<rect x="1" y="1" width="238" height="50" rx="25" fill="url(#g)"/>
+<rect x="1.5" y="1.5" width="237" height="49" rx="24.5" fill="none" stroke="#fff" stroke-width="2"><animate attributeName="stroke-opacity" values="0.15;0.75;0.15" dur="2.4s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#c)"><g><polygon points="-70,0 -40,0 -60,52 -90,52" fill="#fff" fill-opacity="0.28"/><animateTransform attributeName="transform" type="translate" from="0 0" to="340 0" dur="3.4s" repeatCount="indefinite"/></g></g>
+
+<text x="120" y="32" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Read the Docs</text>
+</svg>
